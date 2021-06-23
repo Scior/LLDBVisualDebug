@@ -1,0 +1,6 @@
+command script import ~/LLDBVisualDebug/python/loadext.py
+command script import ~/LLDBVisualDebug/python/lldbcommon.py
+command script import ~/LLDBVisualDebug/python/overlayimage.py
+command script import ~/LLDBVisualDebug/python/saveimage.py
+
+command alias uikit expr import UIKit
