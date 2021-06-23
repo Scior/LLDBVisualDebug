@@ -27,3 +27,7 @@ Create a image view for debugging from a local image file and add it to the supe
 (lldb) loadext
 (lldb) overlayimage imageView /tmp/alpaca.png
 ```
+
+## Sample Project
+
+`ImageBuffer` and `DebugOverlayView` are placed in the `LLDBVisualDebugSample` directory.
